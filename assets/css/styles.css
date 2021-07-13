@@ -383,7 +383,7 @@ img {
   background-color: var(--first-color);
   color: #fff;
   padding: 1rem;
-  margin: 1rem;
+  margin-bottom: 1.6rem;
   border-radius: 0.5rem;
   font-weight: var(--font-medium);
 }
@@ -565,11 +565,11 @@ img {
 }
 
 .skills__css {
-  width: 80%;
+  width: 87%;
 }
 
 .skills__js {
-  width: 80%;
+  width: 78%;
 }
 
 .skills__react {
