@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   /* Change favorite color */
-  --hue-color: 220; /*Purple 250 - Green 142 - Blue 230 - Pink 340* 60-yellow/
+  --hue-color: 250; /*Purple 250 - Green 142 - Blue 230 - Pink 340* 60-yellow/
 
   /* HSL color mode */
   --first-color: hsl(var(--hue-color), 69%, 61%);
@@ -485,7 +485,10 @@ img {
     width: 87%;
   }
   &__js {
-    width: 78%;
+    width: 77%;
+  }
+  &__figma {
+    width: 70%;
   }
   &__react {
     width: 85%;
